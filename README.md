@@ -5,7 +5,7 @@ to run the wesocket server follow the below steps
 
 go to the root folder and ### `npm install`
 
-and click on the startServer bat file in root folder
+and click on startServer bat file in root folder or  enter thge command  ### `npm run start`
 
 ## Available Scripts
 
