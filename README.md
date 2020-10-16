@@ -9,6 +9,8 @@ and click on startServer bat file in root folder or  enter thge command  ### `np
 
 you have to checkout master branch for websocket server
 
+branch detail https://github.com/praveenKumarPoo/upstox/tree/master
+
 ## Available Scripts
 
 In the project directory, you can run:
