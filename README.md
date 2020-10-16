@@ -7,6 +7,8 @@ go to the root folder and ### `npm install`
 
 and click on startServer bat file in root folder or  enter thge command  ### `npm run start`
 
+you have to checkout master branch for websocket server
+
 ## Available Scripts
 
 In the project directory, you can run:
